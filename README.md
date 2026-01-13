@@ -1,0 +1,2 @@
+# nuxt-landing
+nuxt-landing
