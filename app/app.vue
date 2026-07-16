@@ -147,7 +147,7 @@
       <div class="max-w-7xl mx-auto">
         <div class="grid md:grid-cols-4 gap-8 mb-8">
           <div>
-            <h4 class="text-white text-lg font-semibold mb-4">Nuxt Landing</h4>
+            <h4 class="text-white text-lg font-semibold mb-4">Nuxt Landing + hhhh</h4>
             <p class="text-sm">Building the future of web development.</p>
           </div>
           <div>
